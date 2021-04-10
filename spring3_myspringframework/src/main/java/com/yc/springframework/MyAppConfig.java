@@ -20,9 +20,4 @@ public class MyAppConfig {
         return new HelloWorld();
     }
 
-    @MyBean
-    public HelloWorld hw2(){
-        return new HelloWorld();
-    }
-
 }
